@@ -66,6 +66,7 @@ section article {
 }
 
 section h2 {
+	height: 50px;
 	color: purple;
 	border-bottom-style: solid;
 	border-bottom-width: 1.3px;
