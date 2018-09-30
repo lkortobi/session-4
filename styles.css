@@ -31,10 +31,10 @@ footer h2 {
 	margin-left: 150px;
 }
 
-.centered {
+header .centered {
 	padding-top: 10px;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 300px;
+	margin-right: 300px;
 }
 
 header .subtitle {
@@ -65,8 +65,10 @@ section article {
 	margin-left: 50px;
 }
 
-h2 {
+section h2 {
 	color: purple;
+	border-bottom-style: solid;
+	border-bottom-width: 1.3px;
 }
 
 h3 {
@@ -89,6 +91,8 @@ p {
 	content: " | ";
 }
 
-footer h2 {
-
+footer .centered {
+	padding-top: 10px;
+	margin-left: 165px;
+	margin-right: 165px;
 }
